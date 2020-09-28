@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_git\\VS_Android\\App1_test\\App1_test\\App1_test.csproj",
+      "projectUniqueName": "D:\\_git\\VS2017_Android\\App1_test\\App1_test\\App1_test.csproj",
       "projectName": "App1_test",
-      "projectPath": "D:\\_git\\VS_Android\\App1_test\\App1_test\\App1_test.csproj",
+      "projectPath": "D:\\_git\\VS2017_Android\\App1_test\\App1_test\\App1_test.csproj",
       "packagesPath": "C:\\Users\\sny-acer\\.nuget\\packages\\",
-      "outputPath": "D:\\_git\\VS_Android\\App1_test\\App1_test\\obj\\",
+      "outputPath": "D:\\_git\\VS2017_Android\\App1_test\\App1_test\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
