@@ -2354,14 +2354,14 @@ namespace KitchenTimer0
 			// aapt resource value: 0x7f080035
 			public const int META = 2131230773;
 			
-			// aapt resource value: 0x7f08008d
-			public const int RemainingTimeTextView = 2131230861;
-			
 			// aapt resource value: 0x7f080036
 			public const int SHIFT = 2131230774;
 			
 			// aapt resource value: 0x7f080037
 			public const int SYM = 2131230775;
+			
+			// aapt resource value: 0x7f08008d
+			public const int TextViewTime = 2131230861;
 			
 			// aapt resource value: 0x7f0800a8
 			public const int action0 = 2131230888;

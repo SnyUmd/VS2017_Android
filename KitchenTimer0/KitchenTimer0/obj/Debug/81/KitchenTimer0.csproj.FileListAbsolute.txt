@@ -55,4 +55,3 @@ D:\_git\VS2017_Android\KitchenTimer0\KitchenTimer0\obj\Debug\81\linksrc\System.N
 D:\_git\VS2017_Android\KitchenTimer0\KitchenTimer0\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
 D:\_git\VS2017_Android\KitchenTimer0\KitchenTimer0\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 D:\_git\VS2017_Android\KitchenTimer0\KitchenTimer0\obj\Debug\81\linksrc\Mono.Security.pdb
-D:\_git\VS2017_Android\KitchenTimer0\KitchenTimer0\obj\Debug\81\android\assets\KitchenTimer0.pdb
